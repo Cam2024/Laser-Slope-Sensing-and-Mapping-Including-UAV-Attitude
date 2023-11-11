@@ -10,3 +10,6 @@ Sliding Mean Filter:
 
 Real-time sensing using matplotlib:
 ![2](https://github.com/Cam2024/Laser-Slope-Sensing-and-Mapping-Including-UAV-Attitude/assets/89662823/71f1bdff-6df2-48d6-8967-941edf7bcd67)
+
+https://github.com/Cam2024/Laser-Slope-Sensing-and-Mapping-Including-UAV-Attitude/assets/89662823/8302053c-8dfd-46fd-b7af-f26689bdd8a0
+
